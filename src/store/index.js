@@ -22,7 +22,7 @@ export default createStore({
       })
     },
     addTodo({commit}, data) {
-      axios.post('http://localhost:3000/todos', data).then((response) => {
+      return axios.post('http://localhost:3000/todos', data).then((response) => {
         commit('storeTodo', response.data)
       })
     },
