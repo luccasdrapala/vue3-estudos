@@ -1,29 +1,24 @@
 {
   "todos": [
     {
-      "title": "11:38",
-      "completed": true,
-      "id": 1
-    },
-    {
-      "title": "Estudar Tailwind",
-      "completed": true,
-      "id": 2
-    },
-    {
-      "title": "Estudar composition API",
-      "completed": false,
-      "id": 3
-    },
-    {
       "title": "Hello World",
       "completed": false,
       "id": 4
     },
     {
-      "title": "Opa",
-      "completed": true,
+      "title": "Novo Ticket",
+      "completed": false,
       "id": 5
+    },
+    {
+      "title": "Luccas",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "Estudar",
+      "completed": false,
+      "id": 7
     }
   ]
 }
