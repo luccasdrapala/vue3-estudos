@@ -1,19 +1,19 @@
 {
   "todos": [
     {
-      "newTitle": "Estudar PHP ",
+      "title": "23/11",
       "completed": true,
       "id": 1
     },
     {
-      "id": 2,
       "title": "Estudar Vue",
-      "completed": false
+      "completed": true,
+      "id": 2
     },
     {
-      "id": 3,
       "title": "Estudar composition API",
-      "completed": false
+      "completed": false,
+      "id": 3
     },
     {
       "title": "Hello World",
@@ -21,8 +21,8 @@
       "id": 4
     },
     {
-      "newTitle": "13",
-      "completed": false,
+      "title": "Opa",
+      "completed": true,
       "id": 5
     }
   ]
